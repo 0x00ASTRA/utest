@@ -78,16 +78,16 @@ All tests completed.
 
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
-- ETH:
-    `0x5F7B9072E174deE0C174166E947084656E796144`
-- BTC:
-    `12kV7ixtjP7W8PowrgwsAQLafX1kzVg4PB`
-- LTC:
-    `LeiSY4Frv5odEk16FgR6JMPNy7SurHwBN7`
-- NEOX:
-    `GNcbu5GuZKMUui8A9eZxGXhJurgSixNRfT`
-- SOL:
-    `12Ymegdn9Gw27BoE9bkdH7TViDdmj4is1kpM7BWLuD9X`
+### Wallets 🪙
+| Icon | Token | Address                                      |
+|------| ----- | -------------------------------------------- |
+| ![[SOL.png]] | SOL   | 12Ymegdn9Gw27BoE9bkdH7TViDdmj4is1kpM7BWLuD9X |
+| ![[LTC.png]] | LTC   | LeiSY4Frv5odEk16FgR6JMPNy7SurHwBN7           |
+| ![[BTC.png]] | BTC   | 12kV7ixtjP7W8PowrgwsAQLafX1kzVg4PB           |
+| ![[ETH.png]] | ETH   | 0x02c5e2ec62640771851D3BD0c283936A6481e678   |
+| ![[DOGE.png]] | DOGE  | DLTzZUjJ8WwZ8rHNfeYTLcYALoRGu73s3t           |
+| ![[NEOX.png]] | NEOX  | GNcbu5GuZKMUui8A9eZxGXhJurgSixNRfT           |
+| ![[RVN.png]] | RVN   | RPCyf776AFX2qm3H3v77RnrvtX2QF2f1cg |
 
 ## License
 
