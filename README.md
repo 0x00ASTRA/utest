@@ -81,13 +81,13 @@ If you'd like to contribute, please fork the repository and make changes as you'
 ### Wallets 🪙
 | Icon | Token | Address                                      |
 |------| ----- | -------------------------------------------- |
-| ![SOL.png](public/SOL.png) | SOL   | 12Ymegdn9Gw27BoE9bkdH7TViDdmj4is1kpM7BWLuD9X |
-| ![LTC.png](public/LTC.png) | LTC   | LeiSY4Frv5odEk16FgR6JMPNy7SurHwBN7           |
-| ![BTC.png](public/BTC.png) | BTC   | 12kV7ixtjP7W8PowrgwsAQLafX1kzVg4PB           |
-| ![ETH.png](public/ETH.png) | ETH   | 0x02c5e2ec62640771851D3BD0c283936A6481e678   |
-| ![DOGE.png](public/DOGE.png) | DOGE  | DLTzZUjJ8WwZ8rHNfeYTLcYALoRGu73s3t           |
-| ![NEOX.png](public/NEOX.png) | NEOX  | GNcbu5GuZKMUui8A9eZxGXhJurgSixNRfT           |
-| ![RVN.png](public/RVN.png) | RVN   | RPCyf776AFX2qm3H3v77RnrvtX2QF2f1cg |
+| <img src="public/SOL.png" width=30> | SOL   | 12Ymegdn9Gw27BoE9bkdH7TViDdmj4is1kpM7BWLuD9X |
+| <img src="public/LTC.png" width=30> | LTC   | LeiSY4Frv5odEk16FgR6JMPNy7SurHwBN7           |
+| <img src="public/BTC.png" width=30> | BTC   | 12kV7ixtjP7W8PowrgwsAQLafX1kzVg4PB           |
+| <img src="public/ETH.png" width=30> | ETH   | 0x02c5e2ec62640771851D3BD0c283936A6481e678   |
+| <img src="public/DOGE.png" width=30> | DOGE  | DLTzZUjJ8WwZ8rHNfeYTLcYALoRGu73s3t           |
+| <img src="public/NEOX.png" width=30> | NEOX  | GNcbu5GuZKMUui8A9eZxGXhJurgSixNRfT           |
+| <img src="public/RVN.png" width=30> | RVN   | RPCyf776AFX2qm3H3v77RnrvtX2QF2f1cg |
 
 ## License
 
